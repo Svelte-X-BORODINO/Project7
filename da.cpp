@@ -2,4 +2,6 @@
 
 int main()
 {
-  printf("hi, this is my first repo)")
+  printf("hi, this is my first repo)");
+return 0;
+}
